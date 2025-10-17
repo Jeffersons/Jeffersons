@@ -3,7 +3,7 @@ Lead iOS / Android Engineer – Kotlin Multiplatform @ NindoConnect | iOS Develo
 
 ## 🚀 Current Projects
 
-### 🧩 [NindoConnect](https://github.com/Jeffersons/NindoConnect)
+### 🧩 [NindoConnect]([https://github.com/Jeffersons/NindoConnect](https://play.google.com/store/apps/details?id=com.nindo.connect&pcampaignid=web_share))
 A social platform that rewards users for their network engagement — followers can generate indirect rewards up to 5 levels deep.  
 Built with a modern architecture using **Kotlin Multiplatform**, **Compose Multiplatform**, and **Firebase** for real-time data synchronization.  
 Currently expanding to iOS and Web.
