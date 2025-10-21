@@ -22,4 +22,27 @@ Aiming to deliver clean, modular examples that showcase modern development patte
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 
+---
+
+## 🧠 My GitHub Insights
+My open-source contributions and activity across GitHub 👇
+
+<div align="left">
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeffersons&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+### 📈 GitHub Summary
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffersons&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true)
+
+### 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffersons&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+
+### 📊 Activity Graph
+[![Jefferson’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffersons&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/Jeffersons)
+
+</div>
+
+---
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jeffsouzabatista/) | [Portfolio](https://play.google.com/store/apps/details?id=com.nindo.connect&pcampaignid=web_share)
