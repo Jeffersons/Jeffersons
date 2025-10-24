@@ -33,10 +33,10 @@ My open-source contributions and activity across GitHub 👇
 [![GitHub Streak](https://github-readme-streak-stats-ak395v7sl.vercel.app?user=Jeffersons&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 ### 📈 GitHub Summary
-![GitHub Stats](https://github-readme-stats-pri-git-e756e5-jeffersons-projects-9344d6a4.vercel.app/api?username=Jeffersons&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-pri-git-e756e5-jeffersons-projects-9344d6a4.vercel.app/api?username=Jeffersons&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&cache_seconds=21600)
 
 ### 🧩 Top Languages
-![Top Langs](https://github-readme-stats-pri-git-e756e5-jeffersons-projects-9344d6a4.vercel.app/api/top-langs/?username=Jeffersons&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+![Top Langs](https://github-readme-stats-pri-git-e756e5-jeffersons-projects-9344d6a4.vercel.app/api/top-langs/?username=Jeffersons&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=21600)
 
 ### 📊 Activity Graph
 [![Jefferson’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeffersons&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/Jeffersons)
